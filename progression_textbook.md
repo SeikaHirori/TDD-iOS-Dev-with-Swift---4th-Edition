@@ -5,5 +5,6 @@ Why this file exists:
 
 ___
 [ ] Section 1
-- [ ] Chapter 2
 - [x] Chapter 1
+- [x] Chapter 2
+- [ ] Chapter 3
