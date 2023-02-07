@@ -7,6 +7,7 @@ Why this file exists:
 ___
 [ ] Section 2
 - [ ] Chapter 4
+    - WIP
 - [ ] Chapter 5
 - [ ] Chapter 6
 ___
