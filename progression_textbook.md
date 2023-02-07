@@ -10,6 +10,8 @@ ___
 - [x] Chapter 5
 - [ ] Chapter 6
     - WIP
+        - STOPPING SESH AT SECTION:
+            - Making ToDoItem equatable
 
 ___
 [x] Section 1
