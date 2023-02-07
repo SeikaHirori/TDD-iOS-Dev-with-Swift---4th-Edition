@@ -6,10 +6,11 @@ Why this file exists:
 
 ___
 [ ] Section 2
-- [ ] Chapter 4
-    - WIP
-- [ ] Chapter 5
+- [x] Chapter 4
+- [x] Chapter 5
 - [ ] Chapter 6
+    - WIP
+
 ___
 [x] Section 1
 - [x] Chapter 1
