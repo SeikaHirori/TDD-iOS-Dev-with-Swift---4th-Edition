@@ -11,6 +11,8 @@
                     - High chance that they have access AND will provide information on how to access
                 - University students might have free access as well!
                 - Use Google to see if your university/ local library has free access :3
+- Author's GitHub Repo for the textbook by chapter:
+    - https://github.com/PacktPublishing/Test-Driven-iOS-Development-with-Swift-Fourth-Edition
 ___
 
 Current checklist:
