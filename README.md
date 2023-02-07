@@ -16,5 +16,6 @@
 ___
 
 Current checklist:
+- [ ] Skim through textbook
 - [ ] Learn how to write functional tests for SwiftUI
 - [ ] See if there are quirks when using XCTest
