@@ -3,6 +3,14 @@ Why this file exists:
 
 # Chapter progression
 
+___
+[ ]
+Section 3
+- [ ] Chapter 7
+- [ ] Chapter 8
+- [ ] Chapter 9
+    - Note: This is user interface testing with open source library, ViewInspector
+    - WIP
 
 ___
 [ ] Section 2
